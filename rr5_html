@@ -1,0 +1,107 @@
+<div>
+  <link href="./rr5.css" rel="stylesheet" />
+  <div class="rr5-container">
+    <div class="rr5-rr5">
+      <div class="rr5-headers-v15">
+        <img
+          src="/container3623-5z5m-200h.png"
+          alt="Container3623"
+          class="rr5-container1"
+        />
+        <span class="rr5-text"><span>Drink_name + Dish_name</span></span>
+        <div class="rr5-menu">
+          <img src="/line13623-z4i.svg" alt="Line13623" class="rr5-line1" />
+          <img src="/line23623-sge.svg" alt="Line23623" class="rr5-line2" />
+          <img src="/line33623-2te.svg" alt="Line33623" class="rr5-line3" />
+        </div>
+      </div>
+      <div class="rr5-sections-left">
+        <span class="rr5-text02"><span>Back</span></span>
+      </div>
+      <img
+        src="/starlightsvgrepocom3623-0tt.svg"
+        alt="starlightsvgrepocom3623"
+        class="rr5-starlightsvgrepocom"
+      />
+      <span class="rr5-text04"><span>4.5</span></span>
+      <span class="rr5-text06"><span>Average rating:</span></span>
+      <span class="rr5-text08"><span>(50 reviews)</span></span>
+      <img
+        src="/starlightsvgrepocom3623-chf2.svg"
+        alt="starlightsvgrepocom3623"
+        class="rr5-starlightsvgrepocom1"
+      />
+      <span class="rr5-text10"><span>5.0</span></span>
+      <span class="rr5-text12"><span>Your rating:</span></span>
+      <span class="rr5-text14"><span>Your comments</span></span>
+      <span class="rr5-text16"><span>Comments</span></span>
+      <span class="rr5-text18"><span>You have shared this pairing</span></span>
+      <span class="rr5-text20"><span>Your views: 100</span></span>
+      <span class="rr5-text22"><span>Shares by viewers: 10</span></span>
+      <button class="rr5-master-primary-button">
+        <span class="rr5-text24"><span>Edit</span></span>
+      </button>
+      <button class="rr5-master-primary-button1">
+        <span class="rr5-text26"><span>Save</span></span>
+      </button>
+      <button class="rr5-master-primary-button2">
+        <span class="rr5-text28"><span>Delete</span></span>
+      </button>
+      <button class="rr5-master-primary-button3">
+        <span class="rr5-text30"><span>Delete</span></span>
+      </button>
+      <img
+        src="/rectangle43623-11c-1300w.png"
+        alt="Rectangle43623"
+        class="rr5-rectangle4"
+      />
+      <span class="rr5-text32"><span>Insert text here</span></span>
+      <img
+        src="/checksvgrepocom3623-c5g7.svg"
+        alt="checksvgrepocom3623"
+        class="rr5-checksvgrepocom"
+      />
+      <button class="rr5-master-primary-button4">
+        <span class="rr5-text34"><span>Sort by:</span></span>
+      </button>
+      <button class="rr5-master-primary-button5">
+        <span class="rr5-text36"><span>See my feedback</span></span>
+      </button>
+      <img
+        src="/dropdownsvgrepocom3623-lf49.svg"
+        alt="dropdownsvgrepocom3623"
+        class="rr5-dropdownsvgrepocom"
+      />
+      <img
+        src="/rectangle33623-ju3-1100h.png"
+        alt="Rectangle33623"
+        class="rr5-rectangle3"
+      />
+      <div class="rr5-card">
+        <button class="rr5-master-primary-button6"></button>
+        <button class="rr5-master-primary-button7"></button>
+        <div class="rr5-text-icons">
+          <input type="text" placeholder="Cancel" class="rr5-input-content" />
+        </div>
+        <div class="rr5-master-input-text-large-icons">
+          <div class="rr5-container2">
+            <div class="rr5-text-icons1">
+              <input
+                type="text"
+                placeholder="Rate out of 5.0 stars"
+                class="rr5-input-content1"
+              />
+            </div>
+          </div>
+        </div>
+      </div>
+      <div class="rr5-text-icons2">
+        <input
+          type="text"
+          placeholder="Apply rating"
+          class="rr5-input-content2"
+        />
+      </div>
+    </div>
+  </div>
+</div>
