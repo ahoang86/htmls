@@ -1,0 +1,76 @@
+<div>
+  <link href="./favorites3.css" rel="stylesheet" />
+  <div class="favorites3-container">
+    <div class="favorites3-favorites3">
+      <div class="favorites3-headers-v15">
+        <img
+          src="/container3352-lzf-200h.png"
+          alt="Container3352"
+          class="favorites3-container1"
+        />
+        <span class="favorites3-text"><span>Create new pairing</span></span>
+      </div>
+      <div class="favorites3-master-input-text">
+        <div class="favorites3-container2">
+          <div class="favorites3-text-icons">
+            <input
+              type="text"
+              placeholder="Enter drink"
+              class="favorites3-input-content"
+            />
+            <div class="favorites3-line-rounded-search">
+              <div class="favorites3-search">
+                <img
+                  src="/vectori336-5ao.svg"
+                  alt="VectorI336"
+                  class="favorites3-vector"
+                />
+                <img
+                  src="/vectori336-i1wl.svg"
+                  alt="VectorI336"
+                  class="favorites3-vector1"
+                />
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div class="favorites3-master-input-text1">
+        <div class="favorites3-container3">
+          <div class="favorites3-text-icons1">
+            <input
+              type="text"
+              placeholder="Enter dish"
+              class="favorites3-input-content1"
+            />
+            <div class="favorites3-line-rounded-search1">
+              <div class="favorites3-search1">
+                <img
+                  src="/vectori336-6ui.svg"
+                  alt="VectorI336"
+                  class="favorites3-vector2"
+                />
+                <img
+                  src="/vectori336-ubh.svg"
+                  alt="VectorI336"
+                  class="favorites3-vector3"
+                />
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+      <img
+        src="/plussvgrepocom3363-t23.svg"
+        alt="plussvgrepocom3363"
+        class="favorites3-plussvgrepocom"
+      />
+      <button class="favorites3-master-primary-button">
+        <span class="favorites3-text2"><span>Cancel</span></span>
+      </button>
+      <button class="favorites3-master-primary-button1">
+        <span class="favorites3-text4"><span>Create pairing</span></span>
+      </button>
+    </div>
+  </div>
+</div>
