@@ -1,0 +1,106 @@
+<div>
+  <link href="./favorites1.css" rel="stylesheet" />
+  <div class="favorites1-container">
+    <div class="favorites1-favorites1">
+      <div class="favorites1-headers-v15">
+        <img
+          src="/container3263-7f5m-200h.png"
+          alt="Container3263"
+          class="favorites1-container1"
+        />
+        <span class="favorites1-text"><span>Favorites</span></span>
+        <button class="favorites1-master-primary-button">
+          <span class="favorites1-text02"><span>Log out</span></span>
+        </button>
+      </div>
+      <div class="favorites1-sections-left">
+        <span class="favorites1-text04"><span>Back</span></span>
+      </div>
+      <div class="favorites1-card">
+        <span class="favorites1-text06 SpecialheadingsDisplay4">
+          <span>Folder</span>
+        </span>
+        <div class="favorites1-image-placeholder">
+          <img
+            src="/foldersvgrepocom3263-ae5zf.svg"
+            alt="foldersvgrepocom3263"
+            class="favorites1-foldersvgrepocom"
+          />
+        </div>
+      </div>
+      <div class="favorites1-card1">
+        <div class="favorites1-image-placeholder1">
+          <img
+            src="/imageicon3263-wkk.svg"
+            alt="Imageicon3263"
+            class="favorites1-imageicon"
+          />
+        </div>
+        <span class="favorites1-text08 SpecialheadingsDisplay4">
+          <span>Drink_name + Dish_name</span>
+        </span>
+        <div class="favorites1-image-placeholder2">
+          <img
+            src="/imageicon3263-cy0h.svg"
+            alt="Imageicon3263"
+            class="favorites1-imageicon1"
+          />
+        </div>
+      </div>
+      <div class="favorites1-card2">
+        <span class="favorites1-text10 SpecialheadingsDisplay4">
+          <span>Drink</span>
+        </span>
+        <div class="favorites1-image-placeholder3">
+          <img
+            src="/imageicon3263-hpoi.svg"
+            alt="Imageicon3263"
+            class="favorites1-imageicon2"
+          />
+        </div>
+      </div>
+      <div class="favorites1-card3">
+        <img
+          src="/rectangle23283-hn6-400w.png"
+          alt="Rectangle23283"
+          class="favorites1-rectangle2"
+        />
+        <span class="favorites1-text12">
+          <span>
+            <span>New folder</span>
+            <br />
+            <span></span>
+            <br />
+            <span>New pairing</span>
+            <br />
+            <span></span>
+            <br />
+            <span>Add drink/dish</span>
+          </span>
+        </span>
+        <img
+          src="/rectangle13283-7pl-400w.png"
+          alt="Rectangle13283"
+          class="favorites1-rectangle1"
+        />
+      </div>
+      <button class="favorites1-master-primary-button1"></button>
+      <button class="favorites1-master-primary-button2"></button>
+      <img
+        src="/trashsvgrepocom3263-ca6.svg"
+        alt="trashsvgrepocom3263"
+        class="favorites1-trashsvgrepocom"
+      />
+      <img
+        src="/addcirclesvgrepocom3263-e1vf.svg"
+        alt="addcirclesvgrepocom3263"
+        class="favorites1-addcirclesvgrepocom"
+      />
+      <img
+        src="/rectangle13283-3if-400w.png"
+        alt="Rectangle13283"
+        class="favorites1-rectangle11"
+      />
+    </div>
+  </div>
+</div>
