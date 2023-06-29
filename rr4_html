@@ -1,0 +1,77 @@
+<div>
+  <link href="./rr4.css" rel="stylesheet" />
+  <div class="rr4-container">
+    <div class="rr4-rr4">
+      <div class="rr4-headers-v15">
+        <img
+          src="/container3623-eha-200h.png"
+          alt="Container3623"
+          class="rr4-container1"
+        />
+        <span class="rr4-text"><span>Drink_name + Dish_name</span></span>
+        <div class="rr4-menu">
+          <img src="/line13623-6lyv.svg" alt="Line13623" class="rr4-line1" />
+          <img src="/line23623-xa2h.svg" alt="Line23623" class="rr4-line2" />
+          <img src="/line33623-f4u.svg" alt="Line33623" class="rr4-line3" />
+        </div>
+      </div>
+      <div class="rr4-sections-left">
+        <span class="rr4-text02"><span>Back</span></span>
+      </div>
+      <img
+        src="/starlightsvgrepocom3623-aer8.svg"
+        alt="starlightsvgrepocom3623"
+        class="rr4-starlightsvgrepocom"
+      />
+      <span class="rr4-text04"><span>4.5</span></span>
+      <span class="rr4-text06"><span>Average rating:</span></span>
+      <span class="rr4-text08"><span>(50 reviews)</span></span>
+      <img
+        src="/starlightsvgrepocom3623-rxio.svg"
+        alt="starlightsvgrepocom3623"
+        class="rr4-starlightsvgrepocom1"
+      />
+      <span class="rr4-text10"><span>5.0</span></span>
+      <span class="rr4-text12"><span>Your rating:</span></span>
+      <span class="rr4-text14"><span>Your comments</span></span>
+      <span class="rr4-text16"><span>Comments</span></span>
+      <span class="rr4-text18"><span>You have shared this pairing</span></span>
+      <span class="rr4-text20"><span>Your views: 100</span></span>
+      <span class="rr4-text22"><span>Shares by viewers: 10</span></span>
+      <button class="rr4-master-primary-button">
+        <span class="rr4-text24"><span>Edit</span></span>
+      </button>
+      <button class="rr4-master-primary-button1">
+        <span class="rr4-text26"><span>Save</span></span>
+      </button>
+      <button class="rr4-master-primary-button2">
+        <span class="rr4-text28"><span>Delete</span></span>
+      </button>
+      <button class="rr4-master-primary-button3">
+        <span class="rr4-text30"><span>Delete</span></span>
+      </button>
+      <img
+        src="/rectangle43623-o6i4-1300w.png"
+        alt="Rectangle43623"
+        class="rr4-rectangle4"
+      />
+      <span class="rr4-text32"><span>Insert text here</span></span>
+      <img
+        src="/checksvgrepocom3623-k09k.svg"
+        alt="checksvgrepocom3623"
+        class="rr4-checksvgrepocom"
+      />
+      <button class="rr4-master-primary-button4">
+        <span class="rr4-text34"><span>Sort by:</span></span>
+      </button>
+      <button class="rr4-master-primary-button5">
+        <span class="rr4-text36"><span>See my feedback</span></span>
+      </button>
+      <img
+        src="/dropdownsvgrepocom3623-7yxq.svg"
+        alt="dropdownsvgrepocom3623"
+        class="rr4-dropdownsvgrepocom"
+      />
+    </div>
+  </div>
+</div>
