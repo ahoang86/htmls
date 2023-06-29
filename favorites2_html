@@ -1,0 +1,110 @@
+<div>
+  <link href="./favorites2.css" rel="stylesheet" />
+  <div class="favorites2-container">
+    <div class="favorites2-favorites2">
+      <div class="favorites2-headers-v15">
+        <img
+          src="/container3293-7h94-200h.png"
+          alt="Container3293"
+          class="favorites2-container1"
+        />
+        <span class="favorites2-text"><span>Favorites</span></span>
+        <button class="favorites2-master-primary-button">
+          <span class="favorites2-text02"><span>Log out</span></span>
+        </button>
+      </div>
+      <div class="favorites2-sections-left">
+        <span class="favorites2-text04"><span>Back</span></span>
+      </div>
+      <div class="favorites2-card">
+        <span class="favorites2-text06 SpecialheadingsDisplay4">
+          <span>Folder</span>
+        </span>
+        <div class="favorites2-image-placeholder">
+          <img
+            src="/foldersvgrepocom3293-qtyd.svg"
+            alt="foldersvgrepocom3293"
+            class="favorites2-foldersvgrepocom"
+          />
+        </div>
+      </div>
+      <div class="favorites2-card1">
+        <div class="favorites2-image-placeholder1">
+          <img
+            src="/imageicon3293-dosmj.svg"
+            alt="Imageicon3293"
+            class="favorites2-imageicon"
+          />
+        </div>
+        <span class="favorites2-text08 SpecialheadingsDisplay4">
+          <span>Drink_name + Dish_name</span>
+        </span>
+        <div class="favorites2-image-placeholder2">
+          <img
+            src="/imageicon3293-a15.svg"
+            alt="Imageicon3293"
+            class="favorites2-imageicon1"
+          />
+        </div>
+      </div>
+      <div class="favorites2-card2">
+        <span class="favorites2-text10 SpecialheadingsDisplay4">
+          <span>Drink</span>
+        </span>
+        <div class="favorites2-image-placeholder3">
+          <img
+            src="/imageicon3293-ol5.svg"
+            alt="Imageicon3293"
+            class="favorites2-imageicon2"
+          />
+        </div>
+      </div>
+      <button class="favorites2-master-primary-button1"></button>
+      <button class="favorites2-master-primary-button2"></button>
+      <img
+        src="/trashsvgrepocom3293-v7zk.svg"
+        alt="trashsvgrepocom3293"
+        class="favorites2-trashsvgrepocom"
+      />
+      <img
+        src="/addcirclesvgrepocom3293-2q2p.svg"
+        alt="addcirclesvgrepocom3293"
+        class="favorites2-addcirclesvgrepocom"
+      />
+      <img
+        src="/rectangle33313-m3n-1100h.png"
+        alt="Rectangle33313"
+        class="favorites2-rectangle3"
+      />
+      <div class="favorites2-card3">
+        <button class="favorites2-master-primary-button3"></button>
+        <button class="favorites2-master-primary-button4"></button>
+        <div class="favorites2-text-icons">
+          <input
+            type="text"
+            placeholder="Cancel"
+            class="favorites2-input-content"
+          />
+        </div>
+        <div class="favorites2-master-input-text-large-icons">
+          <div class="favorites2-container2">
+            <div class="favorites2-text-icons1">
+              <input
+                type="text"
+                placeholder="Untitled"
+                class="favorites2-input-content1"
+              />
+            </div>
+          </div>
+        </div>
+      </div>
+      <div class="favorites2-text-icons2">
+        <input
+          type="text"
+          placeholder="Create folder"
+          class="favorites2-input-content2"
+        />
+      </div>
+    </div>
+  </div>
+</div>
