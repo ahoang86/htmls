@@ -1,0 +1,94 @@
+<div>
+  <link href="./rr2.css" rel="stylesheet" />
+  <div class="rr2-container">
+    <div class="rr2-rr2">
+      <div class="rr2-headers-v15">
+        <img
+          src="/container3562-midg-200h.png"
+          alt="Container3562"
+          class="rr2-container1"
+        />
+        <span class="rr2-text"><span>My ratings and reviews</span></span>
+        <div class="rr2-menu">
+          <img src="/line13562-5a2k.svg" alt="Line13562" class="rr2-line1" />
+          <img src="/line23562-68bd.svg" alt="Line23562" class="rr2-line2" />
+          <img src="/line33562-jtgc.svg" alt="Line33562" class="rr2-line3" />
+        </div>
+      </div>
+      <div class="rr2-sections-left">
+        <span class="rr2-text02"><span>Back</span></span>
+      </div>
+      <div class="rr2-card">
+        <span class="rr2-text04 SpecialheadingsDisplay4">
+          <span>Folder</span>
+        </span>
+        <div class="rr2-image-placeholder">
+          <img
+            src="/foldersvgrepocom3562-1xvr.svg"
+            alt="foldersvgrepocom3562"
+            class="rr2-foldersvgrepocom"
+          />
+        </div>
+      </div>
+      <div class="rr2-card1">
+        <div class="rr2-image-placeholder1">
+          <img
+            src="/imageicon3563-25a.svg"
+            alt="Imageicon3563"
+            class="rr2-imageicon"
+          />
+        </div>
+        <span class="rr2-text06 SpecialheadingsDisplay4">
+          <span>Drink_name + Dish_name</span>
+        </span>
+        <div class="rr2-image-placeholder2">
+          <img
+            src="/imageicon3563-evl8.svg"
+            alt="Imageicon3563"
+            class="rr2-imageicon1"
+          />
+        </div>
+      </div>
+      <div class="rr2-card2">
+        <span class="rr2-text08 SpecialheadingsDisplay4">
+          <span>Drink</span>
+        </span>
+        <div class="rr2-image-placeholder3">
+          <img
+            src="/imageicon3563-mq1b.svg"
+            alt="Imageicon3563"
+            class="rr2-imageicon2"
+          />
+        </div>
+      </div>
+      <button class="rr2-master-primary-button"></button>
+      <button class="rr2-master-primary-button1"></button>
+      <img
+        src="/trashsvgrepocom3563-50lg.svg"
+        alt="trashsvgrepocom3563"
+        class="rr2-trashsvgrepocom"
+      />
+      <img
+        src="/sharesvgrepocom3563-sdet.svg"
+        alt="sharesvgrepocom3563"
+        class="rr2-sharesvgrepocom"
+      />
+      <img
+        src="/rectangle33563-v0fs-1100h.png"
+        alt="Rectangle33563"
+        class="rr2-rectangle3"
+      />
+      <div class="rr2-card3">
+        <button class="rr2-master-primary-button2"></button>
+        <span class="rr2-text10"><span>Cancel</span></span>
+        <button class="rr2-master-primary-button3">
+          <span class="rr2-text12"><span>Share via social media</span></span>
+        </button>
+        <button class="rr2-master-primary-button4"></button>
+        <span class="rr2-text14"><span>Share via email</span></span>
+        <button class="rr2-master-primary-button5"></button>
+        <span class="rr2-text16"><span>Share via text</span></span>
+      </div>
+    </div>
+  </div>
+</div>
