@@ -1,0 +1,337 @@
+.rr1-container {
+  width: 100%;
+  display: flex;
+  overflow: auto;
+  min-height: 100vh;
+  align-items: center;
+  flex-direction: column;
+}
+.rr1-rr1 {
+  width: 100%;
+  height: 1024px;
+  display: flex;
+  overflow: hidden;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+  background-color: rgba(255, 255, 255, 1);
+}
+.rr1-headers-v15 {
+  top: 0px;
+  left: 0px;
+  width: 1440px;
+  height: 110px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.rr1-container1 {
+  top: 0px;
+  left: 0px;
+  width: 1440px;
+  height: 110px;
+  position: absolute;
+}
+.rr1-text {
+  top: 43px;
+  left: 388px;
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  position: absolute;
+  font-size: 64px;
+  font-style: SemiBold;
+  text-align: center;
+  font-family: Urbanist;
+  font-weight: 600;
+  line-height: 34px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.rr1-menu {
+  top: 42.33935546875px;
+  left: 1302.568603515625px;
+  width: 27.431373596191406px;
+  height: 25.32126808166504px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.rr1-line1 {
+  top: -0.0000046950121941335965px;
+  left: 27.431377410888672px;
+  width: 27px;
+  height: 1px;
+  position: absolute;
+}
+.rr1-line2 {
+  top: 12.660629272460938px;
+  left: 27.431377410888672px;
+  width: 27px;
+  height: 1px;
+  position: absolute;
+}
+.rr1-line3 {
+  top: 25.32126235961914px;
+  left: 27.431377410888672px;
+  width: 27px;
+  height: 1px;
+  position: absolute;
+}
+.rr1-sections-left {
+  gap: 33px;
+  top: 50px;
+  left: 110px;
+  width: 69px;
+  display: flex;
+  position: absolute;
+  align-items: center;
+  justify-content: flex-end;
+}
+.rr1-text02 {
+  color: rgba(254, 0, 0, 1);
+  height: auto;
+  font-size: 32px;
+  font-style: SemiBold;
+  text-align: center;
+  font-family: Urbanist;
+  font-weight: 600;
+  line-height: 18px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.rr1-card {
+  top: 320px;
+  left: 110px;
+  width: 388px;
+  height: 319px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+  background-color: rgba(255, 255, 255, 1);
+}
+.rr1-image-placeholder {
+  top: 40px;
+  left: 207px;
+  width: 72px;
+  height: 72px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+  background-color: rgba(249, 248, 255, 1);
+}
+.rr1-imageicon {
+  top: 21.90185546875px;
+  left: 20px;
+  width: 32px;
+  height: 28px;
+  position: absolute;
+}
+.rr1-text04 {
+  top: 136px;
+  left: 32px;
+  color: rgba(0, 0, 0, 1);
+  width: 324px;
+  height: auto;
+  position: absolute;
+  font-size: 28px;
+  font-style: Bold;
+  text-align: center;
+  font-family: DM Sans;
+  font-weight: 700;
+  line-height: 38px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.rr1-image-placeholder1 {
+  top: 40px;
+  left: 109px;
+  width: 72px;
+  height: 72px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+  background-color: rgba(249, 248, 255, 1);
+}
+.rr1-imageicon1 {
+  top: 21.90185546875px;
+  left: 20px;
+  width: 32px;
+  height: 28px;
+  position: absolute;
+}
+.rr1-master-primary-button {
+  gap: 8px;
+  top: 914px;
+  left: 424px;
+  width: 239px;
+  display: flex;
+  padding: 28px 56px;
+  position: absolute;
+  align-items: flex-start;
+  border-radius: 47.27272415161133px;
+  background-color: rgba(245, 208, 76, 1);
+}
+.rr1-master-primary-button1 {
+  gap: 8px;
+  top: 914px;
+  left: 778px;
+  width: 239px;
+  display: flex;
+  padding: 28px 56px;
+  position: absolute;
+  align-items: flex-start;
+  border-radius: 47.27272415161133px;
+  background-color: rgba(245, 208, 76, 1);
+}
+.rr1-trashsvgrepocom {
+  top: 922px;
+  left: 513px;
+  width: 60px;
+  height: 60px;
+  position: absolute;
+}
+.rr1-sharesvgrepocom {
+  top: 922px;
+  left: 867px;
+  width: 60px;
+  height: 60px;
+  position: absolute;
+}
+.rr1-master-input-text {
+  gap: 240px;
+  top: 110px;
+  left: 110px;
+  width: 1220px;
+  display: flex;
+  padding: 24px;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: rgba(232, 232, 232, 1);
+  border-style: solid;
+  border-width: 1px;
+  border-radius: 50px;
+  background-color: rgba(246, 246, 246, 1);
+}
+.rr1-container2 {
+  gap: 10px;
+  width: 371.0001220703125px;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.rr1-text-icons {
+  gap: 240px;
+  width: 371.0001220703125px;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.rr1-input-content {
+  gap: 8px;
+  color: rgba(189, 189, 189, 1);
+  width: 113px;
+  display: flex;
+  font-size: 16px;
+  text-align: center;
+  align-items: flex-start;
+  flex-shrink: 0;
+  font-family: DM Sans;
+  font-weight: 400;
+}
+.rr1-line-rounded-search {
+  width: 18.0001220703125px;
+  height: 18.0001220703125px;
+  display: flex;
+  overflow: hidden;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.rr1-search {
+  top: 1.2296531200408936px;
+  left: 1.5000559091567993px;
+  width: 15.000347137451172px;
+  height: 15.000072479248047px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.rr1-vector {
+  top: 0px;
+  left: 0px;
+  width: 13px;
+  height: 13px;
+  position: absolute;
+}
+.rr1-vector1 {
+  top: 11.375054359436035px;
+  left: 11.37531566619873px;
+  width: 4px;
+  height: 4px;
+  position: absolute;
+}
+.rr1-clearsvgrepocom {
+  top: 122px;
+  left: 1274px;
+  width: 42px;
+  height: 42px;
+  position: absolute;
+}
+.rr1-master-primary-button2 {
+  gap: 8px;
+  top: 221px;
+  left: 110px;
+  width: 352px;
+  display: flex;
+  padding: 18px 24px;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: rgba(232, 232, 232, 1);
+  border-style: solid;
+  border-width: 1px;
+  border-radius: 30px;
+  background-color: rgba(246, 246, 246, 1);
+}
+.rr1-text06 {
+  color: rgba(189, 189, 189, 1);
+  height: auto;
+  text-align: center;
+  line-height: 18px;
+}
+.rr1-dropdownsvgrepocom {
+  top: 218px;
+  left: 388px;
+  width: 60px;
+  height: 60px;
+  position: absolute;
+}
+.rr1-starlightsvgrepocom {
+  top: 562px;
+  left: 331px;
+  width: 40px;
+  height: 40px;
+  position: absolute;
+}
+.rr1-text08 {
+  top: 574px;
+  left: 238px;
+  color: rgba(254, 0, 0, 1);
+  height: auto;
+  position: absolute;
+  font-size: 55px;
+  font-style: Regular;
+  text-align: center;
+  font-family: DM Sans;
+  font-weight: 400;
+  line-height: 18px;
+  font-stretch: normal;
+  text-decoration: none;
+}
