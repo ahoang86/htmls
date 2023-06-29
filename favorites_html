@@ -1,0 +1,76 @@
+<div>
+  <link href="./favorites.css" rel="stylesheet" />
+  <div class="favorites-container">
+    <div class="favorites-favorites">
+      <div class="favorites-headers-v15">
+        <img
+          src="/container3122-3etr-200h.png"
+          alt="Container3122"
+          class="favorites-container1"
+        />
+        <span class="favorites-text"><span>Favorites</span></span>
+        <button class="favorites-master-primary-button">
+          <span class="favorites-text02"><span>Log out</span></span>
+        </button>
+      </div>
+      <div class="favorites-sections-left">
+        <span class="favorites-text04"><span>Back</span></span>
+      </div>
+      <div class="favorites-card">
+        <span class="favorites-text06 SpecialheadingsDisplay4">
+          <span>Folder</span>
+        </span>
+        <div class="favorites-image-placeholder">
+          <img
+            src="/foldersvgrepocom3133-fq7b.svg"
+            alt="foldersvgrepocom3133"
+            class="favorites-foldersvgrepocom"
+          />
+        </div>
+      </div>
+      <div class="favorites-card1">
+        <div class="favorites-image-placeholder1">
+          <img
+            src="/imageicon3122-y9wq.svg"
+            alt="Imageicon3122"
+            class="favorites-imageicon"
+          />
+        </div>
+        <span class="favorites-text08 SpecialheadingsDisplay4">
+          <span>Drink_name + Dish_name</span>
+        </span>
+        <div class="favorites-image-placeholder2">
+          <img
+            src="/imageicon3122-1k4.svg"
+            alt="Imageicon3122"
+            class="favorites-imageicon1"
+          />
+        </div>
+      </div>
+      <div class="favorites-card2">
+        <span class="favorites-text10 SpecialheadingsDisplay4">
+          <span>Drink</span>
+        </span>
+        <div class="favorites-image-placeholder3">
+          <img
+            src="/imageicon3122-dipm.svg"
+            alt="Imageicon3122"
+            class="favorites-imageicon2"
+          />
+        </div>
+      </div>
+      <button class="favorites-master-primary-button1"></button>
+      <button class="favorites-master-primary-button2"></button>
+      <img
+        src="/trashsvgrepocom3133-t19p.svg"
+        alt="trashsvgrepocom3133"
+        class="favorites-trashsvgrepocom"
+      />
+      <img
+        src="/addcirclesvgrepocom3133-53ha.svg"
+        alt="addcirclesvgrepocom3133"
+        class="favorites-addcirclesvgrepocom"
+      />
+    </div>
+  </div>
+</div>
