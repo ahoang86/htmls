@@ -1,0 +1,76 @@
+<div>
+  <link href="./home.css" rel="stylesheet" />
+  <div class="home-container">
+    <div class="home-home">
+      <div class="home-headers-v15">
+        <img
+          alt="Container3072"
+          src="/container3072-72xp-200h.png"
+          class="home-container1"
+        />
+        <span class="home-text"><span>Home</span></span>
+        <button class="home-master-primary-button">
+          <span class="home-text02"><span>Log out</span></span>
+        </button>
+      </div>
+      <div class="home-card">
+        <span class="home-text04 SpecialheadingsDisplay4">
+          <span>Drinks</span>
+        </span>
+        <span class="home-text06 BodyDefault">
+          <span>Find dishes to go with your drinks</span>
+        </span>
+        <div class="home-image-placeholder">
+          <img
+            alt="Imageicon3072"
+            src="/imageicon3072-ud0j.svg"
+            class="home-imageicon"
+          />
+        </div>
+      </div>
+      <div class="home-card1">
+        <span class="home-text08 SpecialheadingsDisplay4">
+          <span>Dishes</span>
+        </span>
+        <span class="home-text10 BodyDefault">
+          <span>Find drinks to go with your dishes</span>
+        </span>
+        <div class="home-image-placeholder1">
+          <img
+            alt="Imageicon3072"
+            src="/imageicon3072-82te.svg"
+            class="home-imageicon1"
+          />
+        </div>
+      </div>
+      <div class="home-card2">
+        <span class="home-text12 SpecialheadingsDisplay4">
+          <span>Favorites</span>
+        </span>
+        <span class="home-text14 BodyDefault">
+          <span>Most enjoyed pairings</span>
+        </span>
+        <div class="home-image-placeholder2">
+          <img
+            alt="Imageicon3072"
+            src="/imageicon3072-w0gi.svg"
+            class="home-imageicon2"
+          />
+        </div>
+      </div>
+      <div class="home-card3">
+        <span class="home-text16 SpecialheadingsDisplay4">
+          <span>Rate and Review</span>
+        </span>
+        <span class="home-text18 BodyDefault"><span>Judge pairings</span></span>
+        <div class="home-image-placeholder3">
+          <img
+            alt="Imageicon3072"
+            src="/imageicon3072-uro.svg"
+            class="home-imageicon3"
+          />
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
