@@ -1,0 +1,60 @@
+<div>
+  <link href="./signup.css" rel="stylesheet" />
+  <div class="signup-container">
+    <div class="signup-signup">
+      <div class="signup-master-input-text-large-icons">
+        <div class="signup-container1">
+          <div class="signup-text-icons">
+            <input
+              type="text"
+              placeholder="Enter email"
+              class="signup-input-content"
+            />
+          </div>
+        </div>
+      </div>
+      <div class="signup-master-input-text-large-icons1">
+        <div class="signup-container2">
+          <div class="signup-text-icons1">
+            <input
+              type="text"
+              placeholder="Create password"
+              class="signup-input-content1"
+            />
+          </div>
+        </div>
+      </div>
+      <div class="signup-headers-v15">
+        <img
+          alt="Container3072"
+          src="/container3072-58gc-200h.png"
+          class="signup-container3"
+        />
+        <span class="signup-text"><span>Sign up</span></span>
+        <div class="signup-sections-left">
+          <span class="signup-text02"><span>Back</span></span>
+        </div>
+      </div>
+      <span class="signup-text04"><span>or</span></span>
+      <button class="signup-master-primary-button">
+        <span class="signup-text06 Textsingle100Bold">
+          <span>Sign up</span>
+        </span>
+      </button>
+      <div class="signup-group2">
+        <button class="signup-master-primary-button1">
+          <span class="signup-text08"><span>Continue with Google</span></span>
+        </button>
+        <div class="signup-social-media-icon-googe">
+          <div class="signup-google">
+            <img
+              alt="VectorI307"
+              src="/vectori307-4ixl.svg"
+              class="signup-vector"
+            />
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
