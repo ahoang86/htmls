@@ -1,0 +1,34 @@
+<div>
+  <link href="./reset.css" rel="stylesheet" />
+  <div class="reset-container">
+    <div class="reset-reset">
+      <div class="reset-master-input-text-large-icons">
+        <div class="reset-container1">
+          <div class="reset-text-icons">
+            <input
+              type="text"
+              placeholder="Email"
+              class="reset-input-content"
+            />
+          </div>
+        </div>
+      </div>
+      <div class="reset-headers-v15">
+        <img
+          alt="Container3583"
+          src="/container3583-gnli-200h.png"
+          class="reset-container2"
+        />
+        <span class="reset-text"><span>Forgot your password?</span></span>
+        <div class="reset-sections-left">
+          <span class="reset-text2"><span>Back</span></span>
+        </div>
+      </div>
+      <button class="reset-master-primary-button">
+        <span class="reset-text4 Textsingle100Bold">
+          <span>Send instructions</span>
+        </span>
+      </button>
+    </div>
+  </div>
+</div>
