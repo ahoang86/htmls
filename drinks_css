@@ -1,0 +1,234 @@
+.drinks-container {
+  width: 100%;
+  display: flex;
+  overflow: auto;
+  min-height: 100vh;
+  align-items: center;
+  flex-direction: column;
+}
+.drinks-drinks {
+  width: 100%;
+  height: 1024px;
+  display: flex;
+  overflow: hidden;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+  background-color: rgba(255, 255, 255, 1);
+}
+.drinks-headers-v15 {
+  top: 0px;
+  left: 0px;
+  width: 1440px;
+  height: 110px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.drinks-container1 {
+  top: 0px;
+  left: 0px;
+  width: 1440px;
+  height: 110px;
+  position: absolute;
+}
+.drinks-text {
+  top: 43px;
+  left: 603px;
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  position: absolute;
+  font-size: 64px;
+  font-style: SemiBold;
+  text-align: center;
+  font-family: Urbanist;
+  font-weight: 600;
+  line-height: 34px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.drinks-sections-left {
+  gap: 33px;
+  top: 50px;
+  left: 110px;
+  width: 69px;
+  display: flex;
+  position: absolute;
+  align-items: center;
+  justify-content: flex-end;
+}
+.drinks-text2 {
+  color: rgba(254, 0, 0, 1);
+  height: auto;
+  font-size: 32px;
+  font-style: SemiBold;
+  text-align: center;
+  font-family: Urbanist;
+  font-weight: 600;
+  line-height: 18px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.drinks-menu {
+  top: 42.33935546875px;
+  left: 1302.568603515625px;
+  width: 27.431373596191406px;
+  height: 25.32126808166504px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.drinks-line1 {
+  top: -0.0000046950121941335965px;
+  left: 27.431377410888672px;
+  width: 27px;
+  height: 1px;
+  position: absolute;
+}
+.drinks-line2 {
+  top: 12.660629272460938px;
+  left: 27.431377410888672px;
+  width: 27px;
+  height: 1px;
+  position: absolute;
+}
+.drinks-line3 {
+  top: 25.32126235961914px;
+  left: 27.431377410888672px;
+  width: 27px;
+  height: 1px;
+  position: absolute;
+}
+.drinks-card {
+  top: 218px;
+  left: 110px;
+  width: 388px;
+  height: 319px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+  background-color: rgba(255, 255, 255, 1);
+}
+.drinks-text4 {
+  top: 136px;
+  left: 32px;
+  color: rgba(0, 0, 0, 1);
+  width: 324px;
+  height: auto;
+  position: absolute;
+  text-align: center;
+  line-height: 38px;
+}
+.drinks-text6 {
+  top: 182px;
+  left: 32px;
+  color: rgba(0, 0, 0, 1);
+  width: 324px;
+  height: auto;
+  position: absolute;
+  text-align: center;
+  line-height: 30px;
+}
+.drinks-image-placeholder {
+  top: 40px;
+  left: 158px;
+  width: 72px;
+  height: 72px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+  background-color: rgba(249, 248, 255, 1);
+}
+.drinks-imageicon {
+  top: 21.90185546875px;
+  left: 20px;
+  width: 32px;
+  height: 28px;
+  position: absolute;
+}
+.drinks-master-input-text {
+  gap: 240px;
+  top: 110px;
+  left: 110px;
+  width: 1220px;
+  display: flex;
+  padding: 24px;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: rgba(232, 232, 232, 1);
+  border-style: solid;
+  border-width: 1px;
+  border-radius: 50px;
+  background-color: rgba(246, 246, 246, 1);
+}
+.drinks-container2 {
+  gap: 10px;
+  width: 371.0001220703125px;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.drinks-text-icons {
+  gap: 240px;
+  width: 371.0001220703125px;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.drinks-input-content {
+  gap: 8px;
+  color: rgba(189, 189, 189, 1);
+  width: 113px;
+  display: flex;
+  font-size: 16px;
+  text-align: center;
+  align-items: flex-start;
+  flex-shrink: 0;
+  font-family: DM Sans;
+  font-weight: 400;
+}
+.drinks-line-rounded-search {
+  width: 18.0001220703125px;
+  height: 18.0001220703125px;
+  display: flex;
+  overflow: hidden;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.drinks-search {
+  top: 1.2296531200408936px;
+  left: 1.5000559091567993px;
+  width: 15.000347137451172px;
+  height: 15.000072479248047px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.drinks-vector {
+  top: 0px;
+  left: 0px;
+  width: 13px;
+  height: 13px;
+  position: absolute;
+}
+.drinks-vector1 {
+  top: 11.375054359436035px;
+  left: 11.37531566619873px;
+  width: 4px;
+  height: 4px;
+  position: absolute;
+}
+.drinks-clearsvgrepocom {
+  top: 122px;
+  left: 1274px;
+  width: 42px;
+  height: 42px;
+  position: absolute;
+}
