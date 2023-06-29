@@ -1,0 +1,31 @@
+<div>
+  <link href="./menu.css" rel="stylesheet" />
+  <div class="menu-container">
+    <div class="menu-menu">
+      <div class="menu-headers-v15">
+        <img
+          alt="Container3073"
+          src="/container3073-tz04-200h.png"
+          class="menu-container1"
+        />
+      </div>
+      <div class="menu-menu1">
+        <img alt="Line13073" src="/line13073-bgor.svg" class="menu-line1" />
+        <img alt="Line23073" src="/line23073-wzoc.svg" class="menu-line2" />
+        <img alt="Line33073" src="/line33073-wzog.svg" class="menu-line3" />
+      </div>
+      <div class="menu-card">
+        <span class="menu-text"><span>Home</span></span>
+      </div>
+      <div class="menu-card1">
+        <span class="menu-text2"><span>Favorites</span></span>
+      </div>
+      <div class="menu-card2">
+        <span class="menu-text4"><span>Rate and Review</span></span>
+      </div>
+      <div class="menu-card3">
+        <span class="menu-text6"><span>Log out</span></span>
+      </div>
+    </div>
+  </div>
+</div>
