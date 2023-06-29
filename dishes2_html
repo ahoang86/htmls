@@ -1,0 +1,92 @@
+<div>
+  <link href="./dishes2.css" rel="stylesheet" />
+  <div class="dishes2-container">
+    <div class="dishes2-dishes2">
+      <div class="dishes2-headers-v15">
+        <img
+          src="/container3242-ok9s-200h.png"
+          alt="Container3242"
+          class="dishes2-container1"
+        />
+        <span class="dishes2-text"><span>Dish_name</span></span>
+      </div>
+      <div class="dishes2-sections-left">
+        <span class="dishes2-text02"><span>Back</span></span>
+      </div>
+      <div class="dishes2-menu">
+        <img src="/line13242-1nnn.svg" alt="Line13242" class="dishes2-line1" />
+        <img src="/line23242-4r4b.svg" alt="Line23242" class="dishes2-line2" />
+        <img src="/line33242-k0y8.svg" alt="Line33242" class="dishes2-line3" />
+      </div>
+      <div class="dishes2-content-sections-v1">
+        <div class="dishes2-wrapper">
+          <span class="dishes2-text04 HeadingsH2">
+            <span>Dish information</span>
+          </span>
+          <span class="dishes2-text06"><span>Drink pairings</span></span>
+          <div class="dishes2-image-placeholder">
+            <img
+              src="/imageicon3242-bc3c.svg"
+              alt="Imageicon3242"
+              class="dishes2-imageicon"
+            />
+          </div>
+        </div>
+        <button class="dishes2-master-primary-button">
+          <span class="dishes2-text08 Textsingle200Bold">
+            <span>Filter</span>
+          </span>
+        </button>
+        <div class="dishes2-feature">
+          <span class="dishes2-text10 BodyDefault">
+            <span>Lorem ipsum dolor sit</span>
+          </span>
+          <div class="dishes2-image-placeholder1">
+            <img
+              src="/imageicon3242-2iwh.svg"
+              alt="Imageicon3242"
+              class="dishes2-imageicon1"
+            />
+          </div>
+        </div>
+        <div class="dishes2-feature1">
+          <span class="dishes2-text12 BodyDefault">
+            <span>Lorem ipsum dolor sit amet</span>
+          </span>
+          <div class="dishes2-image-placeholder2">
+            <img
+              src="/imageicon3242-oucn.svg"
+              alt="Imageicon3242"
+              class="dishes2-imageicon2"
+            />
+          </div>
+        </div>
+        <span class="dishes2-text14"><span>Add to Favorites</span></span>
+      </div>
+      <div class="dishes2-card">
+        <span class="dishes2-text16"><span>Type</span></span>
+        <button class="dishes2-master-primary-button1"></button>
+        <img
+          src="/dropdownsvgrepocom3243-uy6e.svg"
+          alt="dropdownsvgrepocom3243"
+          class="dishes2-dropdownsvgrepocom"
+        />
+        <span class="dishes2-text18"><span>Region</span></span>
+        <span class="dishes2-text20"><span>Price</span></span>
+        <button class="dishes2-master-primary-button2"></button>
+        <img
+          src="/dropdownsvgrepocom3242-lzbn.svg"
+          alt="dropdownsvgrepocom3242"
+          class="dishes2-dropdownsvgrepocom1"
+        />
+        <button class="dishes2-master-primary-button3">
+          <span class="dishes2-text22"><span>$ Max</span></span>
+        </button>
+      </div>
+      <span class="dishes2-text24"><span>Reset filters</span></span>
+      <button class="dishes2-master-primary-button4">
+        <span class="dishes2-text26"><span>$ Min</span></span>
+      </button>
+    </div>
+  </div>
+</div>
