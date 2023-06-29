@@ -1,0 +1,66 @@
+<div>
+  <link href="./start.css" rel="stylesheet" />
+  <div class="start-container">
+    <div class="start-start">
+      <img
+        alt="AIGeneratedLogo3052"
+        src="/aigeneratedlogo3052-70g-600h.png"
+        class="start-a-generated-logo"
+      />
+      <div class="start-master-input-text-large-icons">
+        <div class="start-container1">
+          <div class="start-text-icons">
+            <input
+              type="text"
+              placeholder="Email"
+              class="start-input-content"
+            />
+          </div>
+        </div>
+      </div>
+      <div class="start-master-input-text-large-icons1">
+        <div class="start-container2">
+          <div class="start-text-icons1">
+            <input
+              type="text"
+              placeholder="Password"
+              class="start-input-content1"
+            />
+          </div>
+        </div>
+      </div>
+      <div class="start-headers-v15">
+        <img
+          alt="Container3052"
+          src="/container3052-3ate-200h.png"
+          class="start-container3"
+        />
+        <button class="start-master-primary-button">
+          <span class="start-text"><span>Sign up</span></span>
+        </button>
+        <span class="start-text02"><span>DrinkDish</span></span>
+        <div class="start-sections-left">
+          <span class="start-text04"><span>Forgot your password?</span></span>
+        </div>
+      </div>
+      <span class="start-text06"><span>or</span></span>
+      <button class="start-master-primary-button1">
+        <span class="start-text08 Textsingle100Bold"><span>Log In</span></span>
+      </button>
+      <div class="start-group1">
+        <button class="start-master-primary-button2">
+          <span class="start-text10"><span>Continue with Google</span></span>
+        </button>
+        <div class="start-social-media-icon-googe">
+          <div class="start-google">
+            <img
+              alt="VectorI305"
+              src="/vectori305-mhmu.svg"
+              class="start-vector"
+            />
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
