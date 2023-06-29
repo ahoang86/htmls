@@ -1,0 +1,85 @@
+<div>
+  <link href="./drinks2.css" rel="stylesheet" />
+  <div class="drinks2-container">
+    <div class="drinks2-drinks2">
+      <div class="drinks2-headers-v15">
+        <img
+          src="/container3202-fe2-200h.png"
+          alt="Container3202"
+          class="drinks2-container1"
+        />
+        <span class="drinks2-text"><span>Drink_name</span></span>
+      </div>
+      <div class="drinks2-sections-left">
+        <span class="drinks2-text02"><span>Back</span></span>
+      </div>
+      <div class="drinks2-menu">
+        <img src="/line13202-ut4n.svg" alt="Line13202" class="drinks2-line1" />
+        <img src="/line23202-vki.svg" alt="Line23202" class="drinks2-line2" />
+        <img src="/line33202-68ub.svg" alt="Line33202" class="drinks2-line3" />
+      </div>
+      <div class="drinks2-content-sections-v1">
+        <div class="drinks2-wrapper">
+          <span class="drinks2-text04 HeadingsH2">
+            <span>Drink information</span>
+          </span>
+          <span class="drinks2-text06"><span>Dish pairings</span></span>
+          <div class="drinks2-image-placeholder">
+            <img
+              src="/imageicon3202-z6as.svg"
+              alt="Imageicon3202"
+              class="drinks2-imageicon"
+            />
+          </div>
+        </div>
+        <button class="drinks2-master-primary-button">
+          <span class="drinks2-text08 Textsingle200Bold">
+            <span>Filter</span>
+          </span>
+        </button>
+        <div class="drinks2-feature">
+          <span class="drinks2-text10 BodyDefault">
+            <span>Lorem ipsum dolor sit</span>
+          </span>
+          <div class="drinks2-image-placeholder1">
+            <img
+              src="/imageicon3202-8nca.svg"
+              alt="Imageicon3202"
+              class="drinks2-imageicon1"
+            />
+          </div>
+        </div>
+        <div class="drinks2-feature1">
+          <span class="drinks2-text12 BodyDefault">
+            <span>Lorem ipsum dolor sit amet</span>
+          </span>
+          <div class="drinks2-image-placeholder2">
+            <img
+              src="/imageicon3202-iaka.svg"
+              alt="Imageicon3202"
+              class="drinks2-imageicon2"
+            />
+          </div>
+        </div>
+        <span class="drinks2-text14"><span>Add to Favorites</span></span>
+      </div>
+      <div class="drinks2-card">
+        <span class="drinks2-text16"><span>Dietary restrictions</span></span>
+        <span class="drinks2-text18"><span>Cuisine type</span></span>
+        <button class="drinks2-master-primary-button1"></button>
+        <img
+          src="/dropdownsvgrepocom3232-5tz5.svg"
+          alt="dropdownsvgrepocom3232"
+          class="drinks2-dropdownsvgrepocom"
+        />
+      </div>
+      <span class="drinks2-text20"><span>Reset filters</span></span>
+      <button class="drinks2-master-primary-button2"></button>
+      <img
+        src="/dropdownsvgrepocom3232-1vfs.svg"
+        alt="dropdownsvgrepocom3232"
+        class="drinks2-dropdownsvgrepocom1"
+      />
+    </div>
+  </div>
+</div>
