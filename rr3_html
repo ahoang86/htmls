@@ -1,0 +1,83 @@
+<div>
+  <link href="./rr3.css" rel="stylesheet" />
+  <div class="rr3-container">
+    <div class="rr3-rr3">
+      <div class="rr3-headers-v15">
+        <img
+          src="/container3593-5u0g-200h.png"
+          alt="Container3593"
+          class="rr3-container1"
+        />
+        <span class="rr3-text"><span>Search for pairings</span></span>
+        <div class="rr3-menu">
+          <img src="/line13593-n9ss.svg" alt="Line13593" class="rr3-line1" />
+          <img src="/line23593-thjj.svg" alt="Line23593" class="rr3-line2" />
+          <img src="/line33593-2tk.svg" alt="Line33593" class="rr3-line3" />
+        </div>
+      </div>
+      <div class="rr3-sections-left">
+        <span class="rr3-text02"><span>Back</span></span>
+      </div>
+      <div class="rr3-card">
+        <div class="rr3-image-placeholder">
+          <img
+            src="/imageicon3593-fulf.svg"
+            alt="Imageicon3593"
+            class="rr3-imageicon"
+          />
+        </div>
+        <span class="rr3-text04 SpecialheadingsDisplay4">
+          <span>Drink_name + Dish_name</span>
+        </span>
+        <div class="rr3-image-placeholder1">
+          <img
+            src="/imageicon3593-eztl.svg"
+            alt="Imageicon3593"
+            class="rr3-imageicon1"
+          />
+        </div>
+      </div>
+      <div class="rr3-master-input-text">
+        <div class="rr3-container2">
+          <div class="rr3-text-icons">
+            <input
+              type="text"
+              placeholder="Search by drink and/or dish"
+              class="rr3-input-content"
+            />
+            <div class="rr3-line-rounded-search">
+              <div class="rr3-search">
+                <img
+                  src="/vectori359-54r4.svg"
+                  alt="VectorI359"
+                  class="rr3-vector"
+                />
+                <img
+                  src="/vectori359-rcir.svg"
+                  alt="VectorI359"
+                  class="rr3-vector1"
+                />
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+      <button class="rr3-master-primary-button">
+        <span class="rr3-text06 Textsingle100Regular">
+          <span>Sort by:</span>
+        </span>
+      </button>
+      <img
+        src="/dropdownsvgrepocom3593-f90l.svg"
+        alt="dropdownsvgrepocom3593"
+        class="rr3-dropdownsvgrepocom"
+      />
+      <img
+        src="/starlightsvgrepocom3613-a4r.svg"
+        alt="starlightsvgrepocom3613"
+        class="rr3-starlightsvgrepocom"
+      />
+      <span class="rr3-text08"><span>4.5</span></span>
+    </div>
+  </div>
+</div>
