@@ -1,0 +1,51 @@
+<div>
+  <link href="./rr.css" rel="stylesheet" />
+  <div class="rr-container">
+    <div class="rr-rr">
+      <div class="rr-headers-v15">
+        <img
+          src="/container3143-0xz9-200h.png"
+          alt="Container3143"
+          class="rr-container1"
+        />
+        <span class="rr-text"><span>Rate and Review</span></span>
+        <button class="rr-master-primary-button">
+          <span class="rr-text02"><span>Log out</span></span>
+        </button>
+      </div>
+      <div class="rr-sections-left">
+        <span class="rr-text04"><span>Back</span></span>
+      </div>
+      <div class="rr-card">
+        <span class="rr-text06 SpecialheadingsDisplay4">
+          <span>My ratings and reviews</span>
+        </span>
+        <span class="rr-text08 BodyDefault">
+          <span>Based on your experience</span>
+        </span>
+        <div class="rr-image-placeholder">
+          <img
+            src="/imageicon3143-sah.svg"
+            alt="Imageicon3143"
+            class="rr-imageicon"
+          />
+        </div>
+      </div>
+      <div class="rr-card1">
+        <span class="rr-text10 SpecialheadingsDisplay4">
+          <span>Search for pairings</span>
+        </span>
+        <span class="rr-text12 BodyDefault">
+          <span>See what others are saying</span>
+        </span>
+        <div class="rr-image-placeholder1">
+          <img
+            src="/imageicon3143-pqkt.svg"
+            alt="Imageicon3143"
+            class="rr-imageicon1"
+          />
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
